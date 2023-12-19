@@ -1,0 +1,10 @@
+.title h1{
+        color:#C8E83A;
+        padding-top: 1.5rem;
+        font-size: 2rem;
+}
+@media screen and (max-width:200px) {
+        .title h1{
+                font-size: 1rem;
+        }
+}

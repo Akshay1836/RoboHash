@@ -1,0 +1,17 @@
+.carditem {
+  width: 14rem;
+  height: 14rem;
+  background-color: #80b116;
+  margin: 1rem;
+}
+.carditem img {
+  width: 6rem;
+}
+.carditem h3 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-weight: 900;
+  font-size: 1.6rem;
+}
+
+

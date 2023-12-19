@@ -1,0 +1,14 @@
+#root {
+  background: linear-gradient(-90deg,#216F03,#948C03);
+  min-height: 100vh;
+}
+*{
+  text-align: center;
+  width:100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+

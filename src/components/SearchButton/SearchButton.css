@@ -1,0 +1,23 @@
+.cards{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;  
+}
+.main input{
+        padding: 1rem;
+        border-radius:.5rem;
+        border: none;
+        margin-top: 3rem;
+        width: 10rem;
+        font-size: 1.5rem;
+}
+@media screen and (max-width:200px) {
+        .main input{
+                padding: 1rem;
+                border-radius:.5rem;
+                border: none;
+                margin-top: 1.5rem;
+                width: 5rem;
+                font-size: .5rem;
+        }
+}
